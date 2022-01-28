@@ -4,7 +4,7 @@ We'll build a simple website that shows title and runtime information about the
 original Lord of the Rings Trilogy.
 
 Specifically, at the end of this activity, your solution will look like this:
-![Lord of the Rings movie info](https://github.com/WDI-SEA/react_intro_global/blob/master/images/lotr.png)
+![Lord of the Rings movie info](https://raw.githubusercontent.com/WDI-SEA/react_intro_global/master/images/lotr.png)
 
 ### Setup
 Fork and then clone this repo down to your local machine. Once cloned, cd into the directory for the project and run `npm install`.
